@@ -15,10 +15,6 @@ run/main_scene="uid://cobxr38qn2itp"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
-[editor_plugins]
-
-enabled=PackedStringArray("res://addons/Godot-MToon-Shader/plugin.cfg", "res://addons/vrm/plugin.cfg")
-
 [input]
 
 move_left={
